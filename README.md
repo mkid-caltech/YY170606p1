@@ -15,5 +15,20 @@ Cooldowns:
       center-center: 1950 ohm
 
     Wire Bonds @ 4K;
-      center-ground: 
-      center-center: 
+      center-ground:
+      center-center:
+
+170626YY170606p1.h5
+  Data taken in the yellow dewar with attenuation caused by the coax cables and some amplification post device. 5 dBm input power. (~0.3 K)
+
+170627YY170606p1.h5
+  Data taken in the yellow dewar with attenuation caused by the coax cables and some amplification post device. 5 dBm input power. (~2.7 K)
+
+170629YY170606p1_0.h5
+  Data taken in the yellow dewar with attenuation caused by the coax cables and some amplification post device. -25 dBm input power. (~0.3 K)
+
+170629YY170606p1_1.h5
+  Data taken in the yellow dewar with attenuation caused by the coax cables and some amplification post device. -5 dBm input power. (~0.3 K)
+
+170629YY170606p1_2.h5
+  Data taken in the yellow dewar with attenuation caused by the coax cables and some amplification post device. +5 dBm input power. (~0.3 K)
